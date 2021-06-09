@@ -3,8 +3,8 @@
 I have correctly implemented a resume.html, bio.html, and index.html file. I used my real details (name, email, education, work experience, interests, etc.) for all webpages. My web page can be accessed at https://devkikalra.github.io/. 
 
 Additionally, I have verified the following: 
-- All my HTML files pass the official HTML5 specifications via: 
-- All my CSS files pass the official CSS validations via: 
+- All my HTML files pass the official HTML5 specifications via: https://validator.w3.org/
+- All my CSS files pass the official CSS validations via: https://jigsaw.w3.org/css-validator/
 - I didn't use any frames 
 - I didn't use any styling elements
 - All styling was defined in CSS files
