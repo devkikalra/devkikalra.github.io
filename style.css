@@ -1,0 +1,83 @@
+
+/*formatting*/
+
+.resume_right {
+    border: 3px ridge;
+    border-style: hidden;
+    background-color:white;
+    padding: .5rem;
+    float: right;
+    width: 980px;
+    height: 1400px;
+    margin: auto;
+    
+}
+
+.resume_left {
+    border: 3px ridge;
+    border-style: hidden;
+    background-color:#c1e1c1;  
+    padding: .5rem;
+    float: left;
+    width: 360px;
+	height: 1400px;
+    margin: auto;
+    
+}
+
+/*typography*/
+
+.resume_right, .serif {
+    font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+    color: #333333;
+    font-weight: 300;
+}
+
+.resume_left, .sanserif {
+    font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+    color: white;
+    font-weight: 300;
+}
+
+p, .serif {
+    font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight:lighter;
+    letter-spacing:2mm; 
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2 {
+    text-align: left;
+    font-size: 28px;
+    font-weight: 300;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+p {
+    text-align: left;
+    font-size: 18px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+ul {border-left: 5px #c1e1c1 solid; margin-left: 5%;}
+li {
+	color: #333333;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+
+
+
+
+
