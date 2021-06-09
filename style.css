@@ -7,7 +7,7 @@
     background-color:white;
     padding: .5rem;
     float: right;
-    width: 900px;
+    width: 950px;
     height: 1400px;
     margin: auto;
     
@@ -20,7 +20,7 @@
     padding: .5rem;
     float: left;
     width: 360px;
-	height: 1400px;
+	height:max-content; 
     margin: auto;
     
 }
