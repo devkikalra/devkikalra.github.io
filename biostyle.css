@@ -1,0 +1,22 @@
+
+body {
+    background-color: #c1e1c1;
+}
+
+.bio {
+    border: 3px ridge; 
+    border-style:hidden; 
+    padding: .5rem; 
+    float:none;
+    top:inherit;
+    width: fit-content; 
+    margin: auto;
+    text-align: center;
+}
+
+.bio, .serif {
+    font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+    color: white;
+    font-weight: 300;
+}
+
