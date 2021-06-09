@@ -4,6 +4,7 @@ I have correctly implemented a resume.html, bio.html, and index.html file. I use
 
 Additionally, I have verified the following: 
 - All my HTML files pass the official HTML5 specifications via: https://validator.w3.org/
+- I implemented 3 CSS files with more than 5 rules 
 - All my CSS files pass the official CSS validations via: https://jigsaw.w3.org/css-validator/
 - I didn't use any frames 
 - I didn't use any styling elements
